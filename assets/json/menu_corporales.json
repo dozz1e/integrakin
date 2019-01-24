@@ -1,0 +1,142 @@
+[
+    {
+        "id": 42,   
+        "name": "Carboxiterapia",
+        "url": "https://www.integrakin.cl/categoria-producto/corporales/carboxiterapia/",
+        "imagen": "https://www.integrakin.cl/wp-content/uploads/2018/09/5_20.jpg",
+        "subcategorias": []
+    },
+    {
+        "id": 41,
+        "name": "Cavitación",
+        "url": "https://www.integrakin.cl/categoria-producto/corporales/cavitacion/",
+        "imagen": "https://www.integrakin.cl/wp-content/uploads/2018/09/1_4.jpg",
+        "subcategorias": []
+    },
+    {
+        "id": 43,
+        "name": "Criolipólisis",
+        "url": "https://www.integrakin.cl/categoria-producto/corporales/criolipolisis/",
+        "imagen": "https://www.integrakin.cl/wp-content/uploads/2018/09/2_2.jpg",
+        "subcategorias": []
+    },
+    {
+        "id": 44,
+        "name": "Depilación",
+        "url": "https://www.integrakin.cl/categoria-producto/corporales/depilacion/",
+        "imagen": "https://www.integrakin.cl/wp-content/uploads/2018/09/6_2.jpg",
+        "subcategorias": [
+            {
+                "id": 47,
+                "name": "Diodo Láser",
+                "url": "https://www.integrakin.cl/categoria-producto/corporales/depilacion/diodo-laser/",
+                "imagen": "https://www.integrakin.cl/wp-content/uploads/2018/09/7_7.jpg",
+                "subcategorias": []
+            },
+            {
+                "id": 45,
+                "name": "IPL",
+                "url": "https://www.integrakin.cl/categoria-producto/corporales/depilacion/ipl/",
+                "imagen": "https://www.integrakin.cl/wp-content/uploads/2018/09/6_1-600x599.jpg",
+                "subcategorias": []
+            },
+            {
+                "id": 46,
+                "name": "SHR",
+                "url": "https://www.integrakin.cl/categoria-producto/corporales/depilacion/shr/",
+                "imagen": "https://www.integrakin.cl/wp-content/uploads/2018/09/7_3.jpg",
+                "subcategorias": []
+            }
+            ]
+    },
+    {
+        "id": 50,
+        "name": "Electroestimuladores",
+        "url": "https://www.integrakin.cl/categoria-producto/corporales/electroestimuladores/",
+        "imagen": "https://www.integrakin.cl/wp-content/uploads/2018/09/5_2-600x608.jpg",
+        "subcategorias": []
+    },
+    {
+        "id": 51,
+        "name": "Electroporación",
+        "url": "https://www.integrakin.cl/categoria-producto/corporales/electroporacion/",
+        "imagen": "https://www.integrakin.cl/wp-content/uploads/2018/09/5_32-600x494.jpg",
+        "subcategorias": []
+    },
+    {
+        "id": 52,
+        "name": "HIFU",
+        "url": "https://www.integrakin.cl/categoria-producto/corporales/hifu/",
+        "imagen": "https://www.integrakin.cl/wp-content/uploads/2018/09/5_25_1-600x478.jpg",
+        "subcategorias": []
+    },
+    {
+        "id": 83,
+        "name": "Láser",
+        "url": "https://www.integrakin.cl/categoria-producto/corporales/laser/",
+        "imagen": "https://www.integrakin.cl/wp-content/uploads/2018/09/7_9.jpg",
+        "subcategorias": []
+    },
+    {
+        "id": 56,
+        "name": "Lipoláser / Laserlipólisis",
+        "url": "https://www.integrakin.cl/categoria-producto/corporales/lipolaser/",
+        "imagen": "https://www.integrakin.cl/wp-content/uploads/2018/09/1_7.jpg",
+        "subcategorias": []
+    },
+    {
+        "id": 57,
+        "name": "Liposonix",
+        "url": "https://www.integrakin.cl/categoria-producto/corporales/liposonix/",
+        "imagen": "https://www.integrakin.cl/wp-content/uploads/2018/09/5_27.jpg",
+        "subcategorias": []
+    },
+    {
+        "id": 53,
+        "name": "Mantas Térmicas",
+        "url": "https://www.integrakin.cl/categoria-producto/corporales/mantas/",
+        "imagen": "https://www.integrakin.cl/wp-content/uploads/2018/09/4_4.jpg",
+        "subcategorias": []
+    },
+    {
+        "id": 54,
+        "name": "Mesoterapia / Pistola de Mesoterapia",
+        "url": "https://www.integrakin.cl/categoria-producto/corporales/mesoterapia/",
+        "imagen": "https://www.integrakin.cl/wp-content/uploads/2018/09/5_23-600x656.jpg",
+        "subcategorias": []},
+    {
+        "id": 55,
+        "name": "Mesoterapia virtual",
+        "url": "https://www.integrakin.cl/categoria-producto/corporales/mesoterapia-virtual/",
+        "imagen": "https://www.integrakin.cl/wp-content/uploads/2018/09/5_19.jpg",
+        "subcategorias": []
+    },
+    {
+        "id": 59,
+        "name": "Presoterapia",
+        "url": "https://www.integrakin.cl/categoria-producto/corporales/presoterapia/",
+        "imagen": "https://www.integrakin.cl/wp-content/uploads/2018/09/4_1.jpg",
+        "subcategorias": []
+    },
+    {
+        "id": 60,
+        "name": "Radiofrecuencia",
+        "url": "https://www.integrakin.cl/categoria-producto/corporales/radiofrecuencia/",
+        "imagen": "https://www.integrakin.cl/wp-content/uploads/2018/09/1_4.jpg",
+        "subcategorias": []
+    },
+    {
+        "id": 61,
+        "name": "Ultrasonido",
+        "url": "https://www.integrakin.cl/categoria-producto/corporales/ultrasonido/",
+        "imagen": "https://www.integrakin.cl/wp-content/uploads/2018/09/5_45.jpg",
+        "subcategorias": []
+    },
+    {
+        "id": 62,
+        "name": "Vacuumterapia / Levantamiento de glúteos",
+        "url": "https://www.integrakin.cl/categoria-producto/corporales/vacuumterapia/",
+        "imagen": "https://www.integrakin.cl/wp-content/uploads/2018/09/1_5-600x602.jpg",
+        "subcategorias": []
+    }
+]

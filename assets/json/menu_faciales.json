@@ -1,0 +1,99 @@
+ [
+      {
+          "id": 65,
+          "name": "Altafrecuencia",
+          "url": "https://www.integrakin.cl/categoria-producto/faciales/altafrecuencia/",
+          "imagen": "https://www.integrakin.cl/wp-content/uploads/2018/09/5_35.jpg",
+          "subcategorias": []
+      },
+      {
+          "id": 64,
+          "name": "Analizadores de piel",
+          "url": "https://www.integrakin.cl/categoria-producto/faciales/analizadores-piel/",
+          "imagen": "https://www.integrakin.cl/wp-content/uploads/2018/09/5_49.jpg",
+          "subcategorias": []
+      },
+      {
+          "id": 66,
+          "name": "Corriente Gálvanica",
+          "url": "https://www.integrakin.cl/categoria-producto/faciales/galvanica/",
+          "imagen": "https://www.integrakin.cl/wp-content/uploads/2018/09/5_16.jpg",
+          "subcategorias": []
+      },
+      {
+          "id": 67,
+          "name": "Dermapen",
+          "url": "https://www.integrakin.cl/categoria-producto/faciales/dermapen/",
+          "imagen": "https://www.integrakin.cl/wp-content/uploads/2018/09/5_40.jpg",
+          "subcategorias": []
+      },
+      {
+          "id": 68,
+          "name": "Iontoforesis",
+          "url": "https://www.integrakin.cl/categoria-producto/faciales/iontoforesis/",
+          "imagen": "https://www.integrakin.cl/wp-content/uploads/2018/09/5_42.jpg",
+          "subcategorias": []
+      },
+      {
+          "id": 72,
+          "name": "Lámparas de procedimiento: Lámpara Wood",
+          "url": "https://www.integrakin.cl/categoria-producto/faciales/wood/",
+          "imagen": "https://www.integrakin.cl/wp-content/uploads/2018/09/5_47.jpg",
+          "subcategorias": []
+      },
+      {
+          "id": 70,
+          "name": "Martillo Frío / Caliente",
+          "url": "https://www.integrakin.cl/categoria-producto/faciales/martillo-frio-caliente/",
+          "imagen": "https://www.integrakin.cl/wp-content/uploads/2018/09/5_46.jpg",
+          "subcategorias": []
+      },
+      {
+          "id": 69,
+          "name": "Máscara Led",
+          "url": "https://www.integrakin.cl/categoria-producto/faciales/mascara-led/",
+          "imagen": "https://www.integrakin.cl/wp-content/uploads/2018/09/5_38_1.jpg",
+          "subcategorias": []
+      },
+      {
+          "id": 71,
+          "name": "Microdermoabrasión / Puntas de diamante",
+          "url": "https://www.integrakin.cl/categoria-producto/faciales/microdermoabrasion-diamante/",
+          "imagen": "https://www.integrakin.cl/wp-content/uploads/2018/10/IMG_9889.jpg",
+          "subcategorias": []
+      },
+      {
+          "id": 73,
+          "name": "Ollas para depilación",
+          "url": "https://www.integrakin.cl/categoria-producto/faciales/ollas-depilacion/",
+          "imagen": "https://www.integrakin.cl/wp-content/uploads/2018/09/5_50.jpg",
+          "subcategorias": []
+      },
+      {
+          "id": 74,
+          "name": "Oxigénesis",
+          "url": "https://www.integrakin.cl/categoria-producto/faciales/oxigenesis/",
+          "imagen": "https://www.integrakin.cl/wp-content/uploads/2018/09/5_16.jpg",
+          "subcategorias": []
+      },
+      {
+          "id": 75,
+          "name": "Peeling Ultrasónico",
+          "url": "https://www.integrakin.cl/categoria-producto/faciales/peeling-ultrasonico/",
+          "imagen": "https://www.integrakin.cl/wp-content/uploads/2018/09/5_14-600x564.jpg",
+          "subcategorias": []},
+      {
+          "id": 76,
+          "name": "Ultrasonido",
+          "url": "https://www.integrakin.cl/categoria-producto/faciales/ultrasonido-faciales/",
+          "imagen": "https://www.integrakin.cl/wp-content/uploads/2018/09/5_14-600x564.jpg",
+          "subcategorias": []
+      },
+      {
+          "id": 77,
+          "name": "Vapor ozono",
+          "url": "https://www.integrakin.cl/categoria-producto/faciales/vaporozono/",
+          "imagen": "https://www.integrakin.cl/wp-content/uploads/2018/09/5_44.jpg",
+          "subcategorias": []
+      }
+    ]

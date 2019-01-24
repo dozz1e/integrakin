@@ -1,0 +1,88 @@
+name: Integrakin
+description: Aplicación para venta de productos de Integrakin
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# Read more about versioning at semver.org.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.2
+  splashscreen: ^1.1.0
+  http: ^0.11.3+16
+  flutter_html_textview: ^0.2.6
+  smooth_star_rating: ^1.0.1
+  carousel_pro: ^0.0.13
+  flutter_staggered_grid_view: ^0.2.4
+  cached_network_image: ^0.4.0
+  flutter_launcher_icons: ^0.7.0
+  url_launcher: ^4.0.3
+  flutter_custom_clippers: ^0.1.5
+  intl: any
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+# For information on the generic Dart part of this file, see the
+# following page: https://www.dartlang.org/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/icon.png
+    - assets/images/logo.png
+    - assets/images/titulo.png
+    - assets/images/background.png
+    - assets/images/portada1.jpg
+    - assets/images/portada2.jpg
+    - assets/images/portada3.jpg
+    - assets/images/portada4.jpg
+    - assets/images/portada5.jpg
+    - assets/images/facebook.png
+    - assets/images/instagram.png
+    - assets/images/whatsapp.png
+    - assets/json/corporales.json
+    - assets/json/faciales.json
+    - assets/json/insumos.json
+    - assets/json/menu_corporales.json
+    - assets/json/menu_faciales.json
+    - assets/json/menu_todos.json
+    - assets/json/nuevos.json
+    - assets/json/ofertas.json
+    - assets/json/todos.json
+
+  fonts:
+     - family: Raleway
+       fonts:
+         - asset: assets/fonts/Raleway/Raleway-Regular.ttf
+         - asset: assets/fonts/Raleway/Raleway-Italic.ttf
+         - asset: assets/fonts/Raleway/Raleway-Bold.ttf
+           style: italic
+           weight: 700
+     - family: Roboto Mono
+       fonts:
+         - asset: assets/fonts/RobotoMono/RobotoMono-Regular.ttf
+         - asset: assets/fonts/RobotoMono/RobotoMono-Italic.ttf
+         - asset: assets/fonts/RobotoMono/RobotoMono-Bold.ttf
+           style: italic
+           weight: 700
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/icon.png"
