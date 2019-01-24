@@ -1,6 +1,6 @@
-# integrakin
+# Integrakin
 
-A new Flutter application.
+Expertos en Aparatología y Electro Estética
 
 ## Getting Started
 
